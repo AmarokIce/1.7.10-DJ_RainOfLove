@@ -1,0 +1,11 @@
+{
+  "dj_rol": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "dj_rol",
+        "stream": false
+      }
+    ]
+  }
+}
